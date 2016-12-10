@@ -1,5 +1,5 @@
 ```
-> rails new simplest -B -O -S -J --skip-turbolinks --skip-keeps
+> rails new simplest4 -B -O -S -J --skip-turbolinks
 ```
 
 - `-O` Skip Active Record files
@@ -8,4 +8,3 @@
 - `--skip-turbolinks` Skip turbolinks gem
 
 - `-B` Don't run bundle install
-- `--skip-keeps` Skip source control .keep files
